@@ -8,7 +8,7 @@ I work on topics in machine learning and theoretical neuroscience with the goal 
 
 Nabil Imam and Barbara Finlay. Self-organization of cortical areas in the development and evolution of neocortex: a network growth model. bioRxiv preprint. 2020. [Link](https://www.biorxiv.org/content/10.1101/2020.05.13.094672v1)
 
-Nabil Imam and Thomas Cleland. Rapid online learning and robust recall in a neuromorphic olfactory circuit. Nature Machine Intelligence. 2020 (featured in journal cover). [Link](https://www.nature.com/articles/s42256-020-0159-4) 
+Nabil Imam and Thomas Cleland. Rapid online learning and robust recall in a neuromorphic olfactory circuit. Nature Machine Intelligence. 2020 (featured in journal cover). [Link](ImamCleland2020.pdf) 
 
 Paul Merolla, et al. A million spiking-neuron integrated circuit with a scalable communication network and interface. Science. 2014 (featured in journal cover). [Link](TrueNorth 2014.pdf)
 
