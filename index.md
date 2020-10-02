@@ -6,13 +6,13 @@ I work on topics in machine learning and theoretical neuroscience with the goal 
 
 ## Selected Publications
 
-Nabil Imam and Barbara Finlay. Self-organization of cortical areas in the development and evolution of neocortex: a network growth model. bioRxiv preprint. 2020. [Link](https://www.biorxiv.org/content/10.1101/2020.05.13.094672v1)
+Nabil Imam and Barbara Finlay. [Self-organization of cortical areas in the development and evolution of neocortex: a network growth model](Imam_Finlay_2020.pdf). bioRxiv preprint. 2020. 
 
-Nabil Imam and Thomas Cleland. Rapid online learning and robust recall in a neuromorphic olfactory circuit. Nature Machine Intelligence. 2020 (featured in journal cover). [Link](ImamCleland2020.pdf) 
+Nabil Imam and Thomas Cleland. [Rapid online learning and robust recall in a neuromorphic olfactory circuit). Nature Machine Intelligence](Imam_Cleland_2020.pdf). 2020 (featured in journal cover). 
 
-Paul Merolla, et al. A million spiking-neuron integrated circuit with a scalable communication network and interface. Science. 2014 (featured in journal cover). [Link](TrueNorth 2014.pdf)
+Paul Merolla, et al. [A million spiking-neuron integrated circuit with a scalable communication network and interface](IBM_TrueNorth.pdf). Science. 2014 (featured in journal cover). 
 
-Nabil Imam, et al.  A digital neurosynaptic core using event-driven QDI circuits. IEEE International Symposium on Asynchronous Circuits and Systems. 2012 (Best Paper Award). [Link](Imam et al. 2012.pdf)
+Nabil Imam, et al.  [A digital neurosynaptic core using event-driven QDI circuits. IEEE International Symposium on Asynchronous Circuits and Systems](Imam_ASYNC_2012.pdf). 2012 (Best Paper Award). 
 
 ## Collaborators
 
