@@ -12,7 +12,7 @@ Nabil Imam and Thomas Cleland. Rapid online learning and robust recall in a neur
 
 Paul Merolla, et al. A million spiking-neuron integrated circuit with a scalable communication network and interface. Science. 2014 (featured in journal cover). [Link](https://science.sciencemag.org/content/345/6197/668)
 
-Nabil Imam, et al.  A digital neurosynaptic core using event-driven QDI circuits. IEEE International Symposium on Asynchronous Circuits and Systems. 2012 (Best Paper Award). [Link](nabil.imam4.jpg)
+Nabil Imam, et al.  A digital neurosynaptic core using event-driven QDI circuits. IEEE International Symposium on Asynchronous Circuits and Systems. 2012 (Best Paper Award). [Link](nabil.imam.jpg)
 
 ## Collaborators
 
