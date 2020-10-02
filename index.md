@@ -17,11 +17,17 @@ Nabil Imam, et al.  A digital neurosynaptic core using event-driven QDI circuits
 ## Collaborators
 
 Rajit Manohar (Yale)
+
 Barbara Finlay (Cornell)
+
 Thomas Cleland (Cornell)
+
 Cengiz Pehlevan (Harvard)
+
 Paul Merolla (Neuralink)
+
 John Arthur (IBM)
+
 Bryan Jackson (IBM)
 
 ## Selected Press
