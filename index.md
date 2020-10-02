@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Nabil Imam
 
-You can use the [editor on GitHub](https://github.com/nabilimam4/nabilimam4.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I work on topics in machine learning and theoretical neuroscience with the goal of understanding general principles of neural coding and computation and their technological applications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Selected Publications
 
-### Markdown
+### Collaborators
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Selected Press
+
+
 
 ```markdown
 Syntax highlighted code block
