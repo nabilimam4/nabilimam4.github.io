@@ -40,7 +40,7 @@ Bryan Jackson (IBM)
 
 [New York Times](https://www.nytimes.com/2014/08/08/science/new-computer-chip-is-designed-to-work-like-the-brain.html): IBM develops a new chip that functions like a brain.
 
-(Scientific American)[https://www.scientificamerican.com/article/moores-law-computing-after-moores-law/]: Computing after Moore's Law.
+[Scientific American](https://www.scientificamerican.com/article/moores-law-computing-after-moores-law/): Computing after Moore's Law.
 
 
 ```markdown
