@@ -32,15 +32,15 @@ Bryan Jackson (IBM)
 
 ## Selected Press
 
-MIT Tech Review: A new computer chip mimics the neurocircuitry of our noses to smell. 
+(MIT Tech Review)[https://www.technologyreview.com/2020/03/16/905295/ai-intel-neuromorphic-chip-mimics-brain-to-smell/]: A new computer chip mimics the neurocircuitry of our noses to smell. 
 
-IEEE Spectrum: Intel's neuromorphic nose learns scents in just one sniff. 
+(IEEE Spectrum)[https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/intels-neuromorphic-nose-learns-scents-in-just-one-sniff]: Intel's neuromorphic nose learns scents in just one sniff. 
 
-MIT Tech Review: A camera that sees like a human eye​.
+(MIT Tech Review)[https://www.technologyreview.com/2013/08/23/176671/a-camera-that-sees-like-the-human-eye/]: A camera that sees like a human eye​.
 
-New York Times: IBM develops a new chip that functions like a brain.
+(New York Times)[https://www.nytimes.com/2014/08/08/science/new-computer-chip-is-designed-to-work-like-the-brain.html]: IBM develops a new chip that functions like a brain.
 
-Scientific American: Computing after Moore's Law.
+(Scientific American)[https://www.scientificamerican.com/article/moores-law-computing-after-moores-law/]: Computing after Moore's Law.
 
 
 ```markdown
