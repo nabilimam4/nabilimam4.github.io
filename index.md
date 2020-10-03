@@ -1,4 +1,4 @@
-## Research
+## Nabil Imam
 
 I work on topics in machine learning and theoretical neuroscience with the goal of understanding general principles of neural coding and computation and their technological applications
 
