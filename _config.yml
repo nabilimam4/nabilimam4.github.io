@@ -1,7 +1,12 @@
-theme: jekyll-theme-minimal
+title: Nabil Imam
+description: 
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
 
-title: [Nabil Imam]
-logo: nabil.imam.jpg
-description: []
-show_downloads: false
-google_analytics: []
+#theme: jekyll-theme-minimal
+#title: [Nabil Imam]
+#logo: nabil.imam.jpg
+#description: []
+#show_downloads: false
+#google_analytics: []
