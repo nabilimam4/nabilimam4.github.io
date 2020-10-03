@@ -1,12 +1,6 @@
-title: Nabil Imam
-description: 
+theme: jekyll-theme-minimal
+title: [Nabil Imam]
+logo: nabil.imam.jpg
+description: []
 show_downloads: false
-google_analytics:
-theme: jekyll-theme-modernist
-
-#theme: jekyll-theme-minimal
-#title: [Nabil Imam]
-#logo: nabil.imam.jpg
-#description: []
-#show_downloads: false
-#google_analytics: []
+google_analytics: []
